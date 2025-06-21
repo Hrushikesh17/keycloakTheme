@@ -65,8 +65,7 @@ Update style.css for color, layout, fonts
 Use browser DevTools to debug UI
 Keep theme.properties for config
 
-📄 License
-This project is licensed under the MIT License.
+
 
 👤 Author
 Your Name
